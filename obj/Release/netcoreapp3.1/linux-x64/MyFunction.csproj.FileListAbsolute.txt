@@ -1,0 +1,12 @@
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\bin\Release\netcoreapp3.1\linux-x64\MyFunction.deps.json
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\bin\Release\netcoreapp3.1\linux-x64\MyFunction.runtimeconfig.json
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\bin\Release\netcoreapp3.1\linux-x64\MyFunction.runtimeconfig.dev.json
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\bin\Release\netcoreapp3.1\linux-x64\MyFunction.dll
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\bin\Release\netcoreapp3.1\linux-x64\MyFunction.pdb
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\obj\Release\netcoreapp3.1\linux-x64\MyFunction.csprojAssemblyReference.cache
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\obj\Release\netcoreapp3.1\linux-x64\MyFunction.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\obj\Release\netcoreapp3.1\linux-x64\MyFunction.AssemblyInfo.cs
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\obj\Release\netcoreapp3.1\linux-x64\MyFunction.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\obj\Release\netcoreapp3.1\linux-x64\MyFunction.dll
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\obj\Release\netcoreapp3.1\linux-x64\MyFunction.pdb
+C:\Desenvolvimento\Lambda\MyFunction\src\MyFunction\obj\Release\netcoreapp3.1\linux-x64\MyFunction.genruntimeconfig.cache

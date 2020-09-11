@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxrz4K6mdXtIzfc4Cs9XyAGgT1vjygRlZY5yAD+pIMO7wVU9DecY8TvMeRszXz2vWl8yeG7INySF3cNmtFHktw==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\Lambda\\MyFunction\\src\\MyFunction\\MyFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristiano.andrade\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\cristiano.andrade\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.1\\amazon.lambda.serialization.systemtextjson.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
